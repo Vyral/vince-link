@@ -20,7 +20,8 @@
 							{% endif %}
 	        </div>
 	        <div class="col-sm-4">
-	          <span itemprop="branchof">{{site.data.settings.client.brokerage}}</span>
+	          <span itemprop="branchof">{{site.data.settings.client.brokerage}}</span><br>
+	          {{ site.data.settings.client.brokerage_license_number }}
 	        </div>
 	        <div class="col-sm-4">
 	          <address itemprop="address">{{site.data.settings.client.address}}</address>
