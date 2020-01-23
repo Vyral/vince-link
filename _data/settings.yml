@@ -13,11 +13,12 @@ custom_links_new_tab:
 client:
   name: Vince Link
   title:
-  license_number:
+  license_number: 'DRE#01796625'
   about_markdown: |
     With passion and commitment, Vince Link is taking the Kern County Real Estate market head-on. His commitment is to help every buyer own a piece of the American dream, and every seller to have a quick and smooth transaction. His passion fuels his love for Real Estate and for helping the community. Vince is a father, a husband, and a full-time, dedicated, and professional Realtor, who always makes the needs of his clients a top priority. Call Vince today!
   brand: The Link Team
   brokerage: Open Door Real Estate
+  brokerage_license_number: 'DRE#02001759'
   market: Bakersfield
   address: 5351 Olive Dr Bakersfield CA 93308
   phone: 661-321-6640
