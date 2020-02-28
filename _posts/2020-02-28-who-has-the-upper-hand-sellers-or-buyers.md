@@ -18,6 +18,8 @@ youtube_code: 'https://youtu.be/nIYUDyzweRQ'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Here’s your latest market update for Bakersfield and Kern County.</em></p>
+
 Right now, is our Kern County market better for buyer’s or seller’s? **Due to low inventory, we’re definitely in a seller’s market.&nbsp;**
 
 Whenever there’s fewer homes on the market, it means sellers can dictate more prices and better terms for themselves. There’s a lot of buyers in the market, and this is creating a lot of multiple-offer scenarios. So if you’re thinking about selling soon, now’s the time to do so.&nbsp;
