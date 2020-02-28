@@ -8,7 +8,7 @@ tags:
 excerpt: Here’s your latest market update for Bakersfield and Kern County.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Vince+Link/Who+Has+the+Upper+Hand-+Sellers+or+Buyers_.mp4
-pullquote: We actually have less than 60 days of active inventory.
+pullquote: We have less than 60 days of active inventory.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
@@ -22,7 +22,7 @@ youtube_code: 'https://youtu.be/nIYUDyzweRQ'
 
 Right now, is our Kern County market better for buyer’s or seller’s? **Due to low inventory, we’re definitely in a seller’s market.&nbsp;**
 
-Whenever there’s fewer homes on the market, it means sellers can dictate more prices and better terms for themselves. There’s a lot of buyers in the market, and this is creating a lot of multiple-offer scenarios. So if you’re thinking about selling soon, now’s the time to do so.&nbsp;
+Whenever there are fewer homes on the market, it means sellers can dictate more prices and better terms for themselves. There are a lot of buyers in the market, and this is creating a lot of multiple-offer scenarios. So if you’re thinking about selling soon, now’s the time to do so.&nbsp;
 
 We actually have less than 60 days of active inventory, and here’s what that means: If no other homes were to come on the market today, it would take just 60 days to sell everything that’s already active.&nbsp;
 
