@@ -3,8 +3,7 @@ layout: post
 title: 'Who Has the Upper Hand: Sellers or Buyers?'
 date: 2020-02-28 14:55:49
 tags:
-  - Home Seller Tips
-  - Home Buyer Tips
+  - Market Update
 excerpt: Here’s your latest market update for Bakersfield and Kern County.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Vince+Link/Who+Has+the+Upper+Hand-+Sellers+or+Buyers_.mp4
