@@ -19,6 +19,8 @@ youtube_code: qENHLjNEzf4
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>All house hunters must ask themselves five questions before making a purchase.</em></p>
+
 Here are the five most important questions to ask while house hunting:
 
 **1\. How’s the neighborhood/area?** A home’s neighborhood/area affects how it appreciates, and not all areas appreciate at the same rate. Homes in areas with great schools and a lot of commercial development will appreciate faster than homes in other areas. Take this value into consideration, because your home is an investment in your future.
