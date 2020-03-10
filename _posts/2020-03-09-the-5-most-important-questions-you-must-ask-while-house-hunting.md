@@ -31,7 +31,7 @@ Here are the five most important questions to ask while house hunting:
 
 {% include pullquote.html %}
 
-**4\. What’s the average cost of utilities?** To answer this question for our homebuyer clients, we request the previous 12 months’ utility bills from the home’s previous owner. Granted, this can change based on your usage of those utilities. Having a big family or using solar panels, for instance, are things you might have to factor in your costs so you can save the most money.&nbsp;
+**4\. What’s the average cost of utilities?** To answer this question for our homebuyer clients, we request the previous 12 months’ utility bills from the home’s previous owner. Granted, this can change based on your usage of those utilities. Having a big family or using solar panels, for instance, are things you might have to factor into your costs so you can save the most money.&nbsp;
 
 **5\. Which big-ticket items will cost you the most money if they don’t work?** Big-ticket items include the home’s roof, foundation, air conditioning unit, and water heater. Make sure these items are inspected correctly so any issues can be addressed during the escrow process. This way, once you move in, you have peace of mind knowing that everything is in top-notch condition.
 
